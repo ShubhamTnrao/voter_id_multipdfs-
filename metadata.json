@@ -1,0 +1,6 @@
+{
+  "name": "Gujarati Voter List Data Extractor",
+  "description": "Extract, structure, verify, and export voter records from Gujarati Electoral Roll PDFs using embedded text extraction and AI vision OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
